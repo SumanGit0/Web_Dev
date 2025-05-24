@@ -1,2 +1,4 @@
 # Basic Portfolio
-This my portfolio ,Making by using Only HTML5.
+This my first project after learning html. 
+I know this is purely basic. 
+I will try to make a good portfolio in future.
